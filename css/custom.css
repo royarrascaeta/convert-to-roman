@@ -1,0 +1,15 @@
+#form-number {
+  text-align: center;
+}
+
+#form-number ~ label {
+  width: 100%;
+  text-align: center;
+}
+
+.form-floating > .form-control:focus ~ label,
+.form-floating > .form-control:not(:placeholder-shown) ~ label,
+.form-floating > .form-select ~ label {
+  transform: scale(1) translateX(0) translateY(-0.8rem);
+  font-size: 80%;
+}
