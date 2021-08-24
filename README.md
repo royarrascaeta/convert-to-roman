@@ -2,6 +2,7 @@
 
 ### :mag_right: Descripcion
 
+- Ejercicio realizado para obtener la certificación de 'Algoritmos de Javascript y Estructura de Datos' en FreeCodeCamp [(Ver Certificación)](https://www.freecodecamp.org/espanol/certification/royarrascaeta/javascript-algorithms-and-data-structures)
 - Este simple ejercicio consta de un input donde el usuario ingresa un número y al presionar el botón 'Convertir' se procede a convertir el número de base 10 a número romano.
 - Valida que el usuario ingrese un número válido (mayor o igual a 1 y menor o igual a 4000)
 - Si el usuario ingresa un número decimal, ignora la parte decimal y considera solo la parte entera.
